@@ -5,13 +5,13 @@ This was part of my submission for MRSD Project Course.
 1. Arduino Uno
 2. USB A-B Cable
 3. Breadboard
-4. 5. Button (2)
-6. RGB LED
-7. 10kΩ Rotary Potentiometer
-8. 150Ω Resistor
-9. 100Ω Resistor (2)
-10. 10kΩ Resistor (2)
-11. Wire
+4. Button (2)
+5. RGB LED
+6. 10kΩ Rotary Potentiometer
+7. 150Ω Resistor
+8. 100Ω Resistor (2)
+9. 10kΩ Resistor (2)
+10. Wire
 
 ## Circuit Set Up ##
 ![Screenshot](circuit.png)
